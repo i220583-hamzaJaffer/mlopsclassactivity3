@@ -7,3 +7,4 @@ data['target'] = iris.target
 
 data.to_csv("data/preprocessed.csv", index=False)
 print("✅ Data preprocessed and saved to data/preprocessed.csv")
+will show you the error now
