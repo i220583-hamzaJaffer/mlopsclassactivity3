@@ -4,6 +4,7 @@ This repository is part of the **MLOps course activity** on **Continuous Integra
 The goal is to automate an ML workflow using **GitHub Actions** — from preprocessing to training, evaluation, and containerization.
 
 ---
+I am going to test my ci/cd pipeline and workflow
 
 ## 🎯 Learning Objectives
 
